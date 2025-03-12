@@ -1,0 +1,2 @@
+C:/Users/papagandus/StudioProjects/firebase_task/android/app/.cxx/RelWithDebInfo/6g6s126i/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/papagandus/StudioProjects/firebase_task/android/app/.cxx/RelWithDebInfo/6g6s126i/arm64-v8a/CMakeFiles/rebuild_cache.dir

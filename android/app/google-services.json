@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993198095641",
+    "project_id": "fir-rtdb-auth-storage",
+    "storage_bucket": "fir-rtdb-auth-storage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993198095641:android:28f77414c4e9e0b3691988",
+        "android_client_info": {
+          "package_name": "com.example.firebase_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZHSIu_i-i-6YXZVmEhZyZdESOUpTtQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
